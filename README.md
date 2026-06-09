@@ -4,18 +4,6 @@ Welcome! This code repository contains a collection of my data projects - primar
 
 ---
 
-## 🚀 About This Portfolio
-
-This portfolio showcases:
-- SQL projects that answer meaningful business questions  
-- Structured, documented analysis using datasets  
-- Clear explanations of query logic and insights  
-- Growth in data driven thinking over time
-
-Projects range from inventory analysis to trend exploration and beyond, and will continue to expand as I learn and build more.
-
----
-
 ## 📂 Projects
 
 Below is a summary of each project included here.
@@ -23,8 +11,6 @@ Below is a summary of each project included here.
 ### 🧠 **Retail Inventory Analysis Using SQL**
 A series of SQL queries on a retail dataset to explore pricing, stock levels, and product performance.  
 Includes aggregate summaries, filtering by business logic, and category comparisons.
-
-➡️ *Folder/Link:* Superstore Database
 
 ---
 
