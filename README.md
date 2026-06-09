@@ -28,18 +28,6 @@ Includes aggregate summaries, filtering by business logic, and category comparis
 
 ---
 
-### 📊 **[Future Project Placeholder]**
-This section will contain the next project once complete.  
-As my skills grow, I will document projects such as:
-- Customer segmentation analysis
-- Time‑series forecasting
-- Multi‑table SQL joins
-- Dashboard integration with BI tools
-
-➡️ *Folder/Link: TBD*
-
----
-
 ## 🛠️ Skills Highlighted
 
 Across these projects, I demonstrate:
@@ -50,22 +38,10 @@ Across these projects, I demonstrate:
 
 ---
 
-## 📌 How to Use This Portfolio
-
-Each project folder contains:
-1. A dataset or SQL schema
-2. SQL scripts answering business questions
-3. A README (per project) describing the purpose and insights
-
-You can explore each project by navigating to its folder and reading the individual README files.
-
----
-
 ## 📫 Connect with Me
 
 If you’d like to see more projects or connect professionally:  
-🔗 LinkedIn: [your‑profile‑link]  
-📧 Email: [your‑email]  
+🔗 LinkedIn: www.linkedin.com/in/macey-stephen-651789152
 
 ---
 
