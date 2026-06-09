@@ -24,7 +24,7 @@ Below is a summary of each project included here.
 A series of SQL queries on a retail dataset to explore pricing, stock levels, and product performance.  
 Includes aggregate summaries, filtering by business logic, and category comparisons.
 
-➡️ *Folder/Link:* `/retail-sql-analysis`
+➡️ *Folder/Link:* Superstore Database
 
 ---
 
